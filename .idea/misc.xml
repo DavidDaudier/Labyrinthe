@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/bg_btn.xml" value="0.1125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/bg_btn_levels.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/bg_btn_play.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/bg_btn_replay_and_pause.xml" value="0.107" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/bg_close.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/bg_home.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/custom_progressbar.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_baseline_watch_later_24.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_buy.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_close.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_help.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_like.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_play.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_play_arrow.xml" value="0.1125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_settings.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_son.xml" value="0.137" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/drawable/ic_star.xml" value="0.107" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/font/font.xml" value="0.20833333333333334" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/custom_progressbar.xml" value="0.203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/labyrinthe_vue.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/maze_level_easy.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/maze_level_medium.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/maze_levels.xml" value="0.22" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/maze_levels_dialog.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/maze_quit.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/maze_win.xml" value="0.2" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/mazeeee.xml" value="0.203125" />
+        <entry key="..\:/Users/DELL/AndroidStudioProjects/Labyrinthe/app/src/main/res/layout/zoom_in_maze_levels.xml" value="0.4609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

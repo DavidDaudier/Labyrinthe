@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="363dp"
+    android:layout_height="525dp"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    android:background="@drawable/bg_maze_quit"
+    android:id="@+id/maze_level">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="105dp"
+        android:orientation="horizontal"
+        android:layout_gravity="end">
+
+
+        <TextView
+            android:layout_width="135dp"
+            android:layout_height="65dp"
+            android:layout_marginStart="40dp"
+            android:layout_marginTop="40dp"
+            android:fontFamily="@font/network"
+            android:gravity="center_vertical"
+            android:letterSpacing=".1"
+            android:text="QUIT ?"
+            android:textColor="#c0c4dd"
+            android:textSize="25sp" />
+        <View
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+
+        <ImageView
+            android:id="@+id/id_close"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginStart="325dp"
+            android:layout_marginTop="45dp"
+            android:layout_marginEnd="257dp"
+            android:layout_marginBottom="0dp"
+            android:src="@drawable/ic_close" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="363dp"
+        android:layout_height="430dp"
+        android:gravity="center"
+        android:layout_gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="300dp"
+            android:layout_height="380dp"
+            android:orientation="vertical"
+            android:layout_marginTop="25dp">
+
+            <LinearLayout
+                android:id="@+id/easy_level"
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                android:layout_marginBottom="35dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:src="@drawable/ic_emoji" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:text="Wait, Don't leave\nPlease help find the way out in Mazes"
+                    android:textColor="#c0c4dd"
+                    android:fontFamily="@font/network"
+                    android:textSize="15sp"
+                    android:lineHeight="20dp"
+                    android:layout_gravity="center"
+                    android:letterSpacing=".1"
+                    android:gravity="center"/>
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btn_stay"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/bg_btn_levels"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="horizontal">
+
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_gravity="center_vertical"
+                    android:text="STAY"
+                    android:letterSpacing=".1"
+                    android:fontFamily="@font/network"
+                    android:gravity="center"
+                    android:textColor="#c0c4dd"
+                    android:textFontWeight="@integer/material_motion_duration_long_2"
+                    android:textSize="25sp" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/btn_maybe"
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:background="@drawable/bg_btn_levels"
+                android:clickable="true"
+                android:focusable="true"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_gravity="center_vertical"
+                    android:letterSpacing=".1"
+                    android:gravity="center"
+                    android:text="Maybe later"
+                    android:fontFamily="@font/network"
+                    android:textColor="#c0c4dd"
+                    android:textFontWeight="@integer/material_motion_duration_long_2"
+                    android:textSize="25sp" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+<!--    <ImageView-->
+<!--        android:id="@+id/imageView2"-->
+<!--        android:layout_width="251dp"-->
+<!--        android:layout_height="353dp"-->
+<!--        android:backgroundTint="@color/cardview_shadow_start_color"-->
+<!--        android:src="@drawable/man_run"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        tools:ignore="MissingConstraints"-->
+<!--        tools:layout_editor_absoluteX="-24dp" />-->
+</LinearLayout>
